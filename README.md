@@ -1,17 +1,20 @@
-# Proyectos RFID
-[![license](https://www.pinguytaz.net/IMG_GITHUB/gplv3-with-text-84x42.png)] (https://github.com/pinguytaz/Arduino/blob/master/LICENSE)
-<BR><BR>
+# GWTOR  (Un Gateway-Router con TOR)
+
+[![license](https://www.pinguytaz.net/IMG_GITHUB/gplv3-with-text-84x42.png) (https://github.com/pinguytaz/Arduino/blob/master/LICENSE)] 
+<BR><BR><BR>
+
+Psroyecto con uso de tarjetas RFID, usando librerias como "LibNFC" (https://github.com/nfc-tools/libnfc)para desarrollo en PC (lenguaje C) aunque se pretende tener el proyecto movil que es por lo que surgio todos estos pequeños PoC que estaran disponibles
+
+<BR>
+
+__PoC-PinesClassic__ 
+    PoC realizado en C para realizar la ocultación y encriptación de informacion en una tarjeta MiFare-Classic, con la intención de contener información de claves de forma secreta cubriendo los problemas de seguridad de estas.
+    
+    Este código es el utilizado en la charla WORLD-Party2K23, por lo que incluimos tambien la presentación realizada en este evento.
+   
+   La idea es que este PoC se convierta en breve en un proyecto, que se publicara también en este repositorio, de aplicación movil.
 
 
-Proyectos para el uso de tarjetas RFID, usando la libreria LibNFC aunque esta previsto tener tambien un proyectos para moviles.
-
-
-__PoC-PinesClassic__  
-   PoC realizado en C usando la libreria "LibNFC" para la lectura de la tarjeta, en la que se realizar un encriptado y ocultación de datos en una MiFare-Classic con la idea de probar el proyecto en movil que nos permitira almacenar los pines y claves de tarjetas, mails, etc.  
-  
-   Este es el codigo utilizado en la charla WORLD.PARTY2K23, incluyendo tambien la presentación que se realizo en este evento.  
-  
-   La idea es que este poc tenga un proyecto movil, para llevar estas claves en nuestra cartera de forma segura.  
 
 
 <br><br><br>
