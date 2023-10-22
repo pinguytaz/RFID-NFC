@@ -1,0 +1,5 @@
+Cargar ficheros no propios necesarios para la compilación correcta.
+    https://github.com/nfc-tools/libnfc/tree/master/utils pertenecientes a la libreria LibNFC pero no instalados.
+        mifare.h
+        mafare.c de nfctools 
+ 

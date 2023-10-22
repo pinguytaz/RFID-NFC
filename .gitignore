@@ -1,0 +1,10 @@
+# Para no subir los DOC y Excell
+*.ods
+*.odt
+*.odp
+*.xopp
+*.xcf
+*.elf
+NoPasar/
+Auxiliares/mifare.c
+Auxiliares/mifare.h
